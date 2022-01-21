@@ -1,3 +1,3 @@
-Olá, este projeto foi desenvolvido com base na Next Level Week Together da Rocketseat.
+Hello, this project were developed based on Next Level Week Together by Rocketseat.
 
-Escolhi a triagem de React.js para desenvolver uma aplicação completa com o auxílio da ferramenta Firebase.
+I chose React.js screening to develop a complete application with the help of the tool Firebase.
